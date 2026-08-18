@@ -8,7 +8,7 @@
 - Currently going to school at the HTBLuVA in Villach, Carinthia
 - I am currently learning c and asm (maybe rust later too)
 - Have been programming since 2020 (started with lua)
-- I really really really despise anything microsoft releated (i use arch btw)
+- I really really really despise anything microsoft releated, except github (i use arch btw)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ❤️❤️
 
